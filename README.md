@@ -22,3 +22,29 @@ You can sign up for Github (https://github.com/) or Hacktoberfest (https://hackt
 # When is it?
 
 Join us on October 15, 2023 from 1300-1500 CDT at Tailwind in Oklahoma City. Details to RSVP are [here](https://www.meetup.com/shecodesokc/events/295050428/). We hope to see you there!
+
+## Finding ways to contribute
+
+There are several ways to find opportunities to participate in Hacktoberfest by working on projects and issues suited to first-time pull requests.
+
+* From your [GitHub dashboard](https://github.com/), type `hacktoberfest` into the search bar. By default, this will bring up a list of repositories tagged as participating. It's very likely that the top results will be for beginner-friendly projects!
+
+  * Click on an interesting project and see its README for instructions about how to contribute to it.
+
+* Or, search within the [Hacktoberfest topic](https://github.com/topics/hacktoberfest), where you can filter by language.
+
+  * If you star this topic, it will appear on your [Explore page](https://github.com/explore) for quicker access!
+
+* If you'd rather search for particular issues to address rather than projects, type `good first issue AND hacktoberfest` into the search bar and switch the results to filter by Issues rather than Repositories.
+
+* Combine these tips on GitHub's [Advanced Search page](https://github.com/search/advanced)! From here, you can search for open issues only and issues with certain labels, filter by language, search for repos with many stars, etc.
+
+* Check out the Techlahoma Slack ([register if needed](https://slack.techlahoma.org/)) to see community members' suggestions! Here are some of our recommendations with beginner-friendly open issues. (Note that approved pull requests may need to be tagged `hacktoberfest-accepted` by a maintainer to count toward your progress.)
+
+  * The [Techlahoma ThunderPlains repo](https://github.com/techlahoma/thunderplains-2023/issues)
+ 
+  * The [Techlahoma Code Newbies repo](https://github.com/techlahoma/code-newbies)
+ 
+  * This [HacktobHERfest repo](https://github.com/shecodesokc/hacktobherfest)!
+ 
+  * The [Cloud Haiku repo](https://github.com/do-community/cloud_haiku)
