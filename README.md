@@ -21,7 +21,15 @@ You can sign up for Github (https://github.com/) or Hacktoberfest (https://hackt
 
 # When is it?
 
-Join us on October 15, 2023 from 1300-1500 CDT at Tailwind in Oklahoma City. Details to RSVP are [here](https://www.meetup.com/shecodesokc/events/295050428/). We hope to see you there!
+Join us on October 15, 2023 from 1300-1500 CDT at [Tailwind](https://www.tailwindapp.com/) in Oklahoma City. Details to RSVP are [here](https://www.meetup.com/shecodesokc/events/295050428/).
+
+Tailwind is located at [111 Harrison Ave. Suite 104, Oklahoma City, OK 73104](https://maps.app.goo.gl/R5B3fZvkUZbeNtgo8). Harrison Ave likely will have available street parking, or you can park in one of Jimmy Joh 's two parking lots (one on the west side of the building and one on the east side). There's also a black paved parking lot south of the building.
+
+Besides being a fun opportunity to socialize, organizers will be on hand to help you work toward your four Hacktoberfest PRs. This is a great opportunity for first-time contributors to ask about and get assistance with GitHub, pull requests, and other questions! Several members also will speak about or demonstrate their PRs. If you create a pull request during the meetup, you're welcome to show it off, too!
+
+Feel free to sign up for [GitHub](https://github.com/) and [Hacktoberfest](https://hacktoberfest.com/) beforehand. We can help you out with these steps at the event, too.
+
+We hope to see you there!
 
 ## Finding ways to contribute
 
