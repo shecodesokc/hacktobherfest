@@ -56,3 +56,7 @@ There are several ways to find opportunities to participate in Hacktoberfest by 
   * This [HacktobHERfest repo](https://github.com/shecodesokc/hacktobherfest)!
  
   * The [Cloud Haiku repo](https://github.com/do-community/cloud_haiku)
+
+## What's a pull request?
+
+There is a great video by a Techlahoma member on creating pull requests! [GitHub Pull Requests with Cassie Koelsch - SheCodesOKC](https://www.youtube.com/watch?v=7rx2D33W30w)
