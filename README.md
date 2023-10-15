@@ -59,4 +59,7 @@ There are several ways to find opportunities to participate in Hacktoberfest by 
 
 ## What's a pull request?
 
-There is a great video by a Techlahoma member on creating pull requests! [GitHub Pull Requests with Cassie Koelsch - SheCodesOKC](https://www.youtube.com/watch?v=7rx2D33W30w)
+A pull request is a way for developers to contribute to open source projects. The name "pull request" refers to a request from you, as a developer, to the site maintainers for your edits to be merged into the existing code.<br>
+
+If you have never completed a pull request before, Cassie Koelsh with SheCodesOKC has published a useful tutorial.<br>
+[GitHub Pull Requests with Cassie Koelsch - SheCodesOKC](https://www.youtube.com/watch?v=7rx2D33W30w)
