@@ -5,7 +5,7 @@ SheCodesOKC is hosting our annual HacktobHERfest event again in 2023! This meeti
  - [What is Hacktoberfest?](#what-is-hacktoberfest)
  - [What makes HacktobHERfest different?](#what-makes-hacktobherfest-different)
  - [When is it?](#when-is-it)
- - [Finding ways to contribute](finding-way-to-contribute)
+ - [Finding ways to contribute](finding-ways-to-contribute)
  - [What's a pull request?](#whats-a-pull-request)
 ## What is Hacktoberfest?
 
