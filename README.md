@@ -1,7 +1,13 @@
 # HacktobHERfest
 SheCodesOKC is hosting our annual HacktobHERfest event again in 2023! This meeting is in honor of participating in the popular event, Hacktoberfest. 
 
-# What is Hacktoberfest?
+ # Table of Contents
+ - [What is Hacktoberfest?](#what-is-hacktoberfest)
+ - [What makes HacktobHERfest different?](#what-makes-hacktobherfest-different)
+ - [When is it?](#when-is-it)
+ - [Finding ways to contribute](finding-ways-to-contribute)
+ - [What's a pull request?](#whats-a-pull-request)
+## What is Hacktoberfest?
 
 Hacktoberfest is DigitalOcean's annual event that's used to encourage people to contribute to open-source throughout the month of October. Most modern tech infrastructure relies on open-source projects, which are built and maintained by passionate people who don't have the staff or budget to do more than keep the project alive. Hacktoberfest is about giving back to those projects, sharpening skills, and celebrating all things related to open-source, including the people that make it so special. 
 
