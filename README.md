@@ -55,7 +55,7 @@ There are several ways to find opportunities to participate in Hacktoberfest by 
 
 * Check out the Techlahoma Slack ([register if needed](https://slack.techlahoma.org/)) to see community members' suggestions! Here are some of our recommendations with beginner-friendly open issues. (Note that approved pull requests may need to be tagged `hacktoberfest-accepted` by a maintainer to count toward your progress.)
 
-  * The [Techlahoma ThunderPlains repo](https://github.com/techlahoma/thunderplains-2023/issues)
+  * The [Techlahoma ThunderPlains repo](https://github.com/techlahoma/thunderplains-2024/issues)
  
   * The [Techlahoma Code Newbies repo](https://github.com/techlahoma/code-newbies)
  
