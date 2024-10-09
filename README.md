@@ -1,5 +1,5 @@
 # HacktobHERfest
-SheCodesOKC is hosting our annual HacktobHERfest event again in 2023! This meeting is in honor of participating in the popular event, Hacktoberfest. 
+SheCodesOKC is hosting our annual HacktobHERfest event again in 2024! This meeting is in honor of participating in the popular event, Hacktoberfest. 
 
  # Table of Contents
  - [What is Hacktoberfest?](#what-is-hacktoberfest)
@@ -13,7 +13,7 @@ Hacktoberfest is DigitalOcean's annual event that's used to encourage people to 
 
 Thousands of coders and non-coders have participated in this event to support the projects they've used and loved, to learn and practice skills to enhance their careers, and to meet new people who love open-source as much as they do.
 
-This year marks the 10th anniversary of Hacktoberfest, and they’re calling for your support! Whether it’s your first time participating—or your tenth—it’s time to hack out four pristine pull/merge requests as we continue our month of support for open source.
+This year marks the 11th anniversary of Hacktoberfest, and they’re calling for your support! Whether it’s your first time participating—or your tenth—it’s time to hack out four pristine pull/merge requests as we continue our month of support for open source.
 
 For more information about Hacktoberfest, check out their website at https://hacktoberfest.com/.
 
@@ -27,9 +27,9 @@ You can sign up for Github (https://github.com/) or Hacktoberfest (https://hackt
 
 # When is it?
 
-Join us on October 15, 2023 from 1300-1500 CDT at [Tailwind](https://www.tailwindapp.com/) in Oklahoma City. Details to RSVP are [here](https://www.meetup.com/shecodesokc/events/295050428/).
+Join us on October 13, 2023 from 1330-1530 CDT at [Tailwind](https://www.tailwindapp.com/) in Oklahoma City. Details to RSVP are [here](https://www.meetup.com/shecodesokc/events/303102028/?eventOrigin=group_upcoming_events).
 
-Tailwind is located at [111 Harrison Ave. Suite 104, Oklahoma City, OK 73104](https://maps.app.goo.gl/R5B3fZvkUZbeNtgo8). Harrison Ave likely will have available street parking, or you can park in one of Jimmy Joh 's two parking lots (one on the west side of the building and one on the east side). There's also a black paved parking lot south of the building.
+Tailwind is located at [111 Harrison Ave. Suite 104, Oklahoma City, OK 73104](https://maps.app.goo.gl/R5B3fZvkUZbeNtgo8). Harrison Ave likely will have available street parking, or you can park in one of Jimmy John's two parking lots (one on the west side of the building and one on the east side). There's also a black paved parking lot south of the building.
 
 Besides being a fun opportunity to socialize, organizers will be on hand to help you work toward your four Hacktoberfest PRs. This is a great opportunity for first-time contributors to ask about and get assistance with GitHub, pull requests, and other questions! Several members also will speak about or demonstrate their PRs. If you create a pull request during the meetup, you're welcome to show it off, too!
 
