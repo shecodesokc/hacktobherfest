@@ -19,11 +19,11 @@ For more information about Hacktoberfest, check out their website at https://hac
 
 # What makes HacktobHERfest different? 
 
-HacktobHERfest is an event for women/non-binary to provide support in creating the 4 pull requests needed to complete Hacktoberfest and [plant a tree through Tree Nation!](https://hacktoberfest.com/about/?mkt_tok=MTEzLURUTi0yNjYAAAGOkOxb1TNNhWEfNrYUf4x197pJqHpGrT9nPmHcRuXy2xDg-HgjrZVuNHd_-G9uyp8bIelL22ERLL_xegbZY8RnvX3_2ZShJ1xydc30GwvvU6mz#digital-rewards)
+HacktobHERfest is an event for women/non-binary members of our group to provide support in creating the 4 pull requests needed to complete Hacktoberfest and [get a digital Holopin badge](https://hacktoberfest.com/about/#rewards)!
 
 Don't worry if you don't have much (or any!) GitHub experience, our organizers are here to help. 
 
-You can sign up for Github (https://github.com/) or Hacktoberfest (https://hacktoberfest.digitalocean.com/) ahead of time, or if you have questions you can ask any of our hosts.
+You can sign up for [GitHub](https://github.com/) or [Hacktoberfest](https://hacktoberfest.digitalocean.com/) ahead of time, or if you have questions you can ask any of our hosts.
 
 # When is it?
 
