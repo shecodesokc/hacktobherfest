@@ -27,7 +27,7 @@ You can sign up for [GitHub](https://github.com/) or [Hacktoberfest](https://hac
 
 # When is it?
 
-Join us on October 13, 2023 from 1330-1530 CDT at [Tailwind](https://www.tailwindapp.com/) in Oklahoma City. Details to RSVP are [here](https://www.meetup.com/shecodesokc/events/303102028/?eventOrigin=group_upcoming_events).
+Join us on October 13, 2024 from 1330-1530 CDT at [Tailwind](https://www.tailwindapp.com/) in Oklahoma City. Details to RSVP are [here](https://www.meetup.com/shecodesokc/events/303102028/?eventOrigin=group_upcoming_events).
 
 Tailwind is located at [111 Harrison Ave. Suite 104, Oklahoma City, OK 73104](https://maps.app.goo.gl/R5B3fZvkUZbeNtgo8). Harrison Ave likely will have available street parking, or you can park in one of Jimmy John's two parking lots (one on the west side of the building and one on the east side). There's also a black paved parking lot south of the building.
 
@@ -52,6 +52,8 @@ There are several ways to find opportunities to participate in Hacktoberfest by 
 * If you'd rather search for particular issues to address rather than projects, type `good first issue AND hacktoberfest` into the search bar and switch the results to filter by Issues rather than Repositories.
 
 * Combine these tips on GitHub's [Advanced Search page](https://github.com/search/advanced)! From here, you can search for open issues only and issues with certain labels, filter by language, search for repos with many stars, etc.
+
+* Search by language using the [Hacktoberfest Project Finder](https://finder.usmans.me/).
 
 * Check out the Techlahoma Slack ([register if needed](https://slack.techlahoma.org/)) to see community members' suggestions! Here are some of our recommendations with beginner-friendly open issues. (Note that approved pull requests may need to be tagged `hacktoberfest-accepted` by a maintainer to count toward your progress.)
 
