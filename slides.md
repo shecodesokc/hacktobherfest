@@ -14,4 +14,6 @@ Go to [hacktoberfest.com](https://hacktoberfest.com/) to register!
 There are lots of issues at [github.com/shecodesokc/hacktober-broken-repo](https://github.com/shecodesokc/hacktober-broken-repo)
 
 # What if I need help?
-Just ask! Someone here can probably get you unstuck, or you can try asking in the #hacktoberfest or #git-help Slack channels.
+Just ask! Someone here can probably get you unstuck, or you can try asking in the [#shecodesokc](https://techlahoma.slack.com/archives/G07EXG64V), [#hacktoberfest](https://techlahoma.slack.com/archives/CD437A8CS), or [#git-help](https://techlahoma.slack.com/archives/C02DD9NBEVD) Slack channels.
+
+# Let's get started! 🎉
