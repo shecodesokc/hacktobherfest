@@ -2,7 +2,19 @@
 It's a global challenge to create 4 pull requests on GitHub during the month of October.
 
 # Do I get a t-shirt?
-Unfortunately, not anymore - just a digital badge and bragging rights!
+No, but Techlahoma is offering 20 Hacktoberfest participants a 20% discount on ThunderPlains tickets!
+
+To receive the discount code:
+* Complete three accepted Hacktoberfest PRs.
+* Share a social post about Hacktoberfest and ThunderPlains.
+  * On LinkedIn: Include #ThunderPlains in your post.
+  * On Instagram or Facebook: Tag @Techlahoma and mention ThunderPlains.
+
+Send Shanda a DM in Slack with:
+* A screenshot of your accepted PRs
+* A screenshot of your social post
+Once verified, Shanda will send you the discount code.
+The code is valid for one ticket per participant and can be applied to General Admission, Pro Ticket, or Donate a Ticket.
 
 # What is a pull request?
 It’s an action you take on GitHub when you want someone to pull your changes into their code.
